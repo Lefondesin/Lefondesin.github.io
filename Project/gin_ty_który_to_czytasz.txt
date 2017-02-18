@@ -4,6 +4,12 @@ git status - porównuje foldery gitowe
 git add . - dodaj wszystkie zmiany do stage
 git commit -m "nazwa" - zapisuje "zielone" zmiany
 cd - przejscie do innego folderu
+git diff head - pokazuje zmiany w plikach w folderze
+gitk - przegladanie commitow 
 
 
 
+
+
+
+Lefondesin.github.io
