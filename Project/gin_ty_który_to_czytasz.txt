@@ -6,7 +6,8 @@ git commit -m "nazwa" - zapisuje "zielone" zmiany
 cd - przejscie do innego folderu
 git diff head - pokazuje zmiany w plikach w folderze
 gitk - przegladanie commitow 
-
+git push - wysylaniena strone
+git clone - klonowanie projektow innych
 
 
 
